@@ -1,4 +1,4 @@
 # hello-world
 test repo
-This is a test if github lol
+This is a test of github lol
 
